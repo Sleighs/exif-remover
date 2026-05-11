@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExifRemover")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c949d926f46d1ab22ddd63041e3fbceec4f645")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c39f7c2be0f9b2cc9ae93e8ff42d305110ca539")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExifRemover")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExifRemover")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
