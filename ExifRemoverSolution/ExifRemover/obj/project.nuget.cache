@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KivHORS0AFw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\GitHub\\exif-remover\\ExifRemoverSolution\\ExifRemover\\ExifRemover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\magick.net-q16-anycpu\\14.13.0\\magick.net-q16-anycpu.14.13.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\magick.net.core\\14.13.0\\magick.net.core.14.13.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\metadataextractor\\2.9.3\\metadataextractor.2.9.3.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
